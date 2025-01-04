@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Basit Shakeel</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbasitshakeel&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbasitshakeel" /> </p>
 
 - 🔭 I’m currently working on [Grand Digital](https://www.grands.digital/)
