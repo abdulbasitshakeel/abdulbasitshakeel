@@ -1,4 +1,4 @@
-![Header Banner](https://raw.githubusercontent.com/abdulbasitshakeel/abdulbasitshakeel/main/new-bg-banner.png)
+![Header Banner](https://raw.githubusercontent.com/abdulbasitshakeel/abdulbasitshakeel/main/updated-bg-banner.png)
 
 <h3 align="center">Frontend Developer Specializing In Creating Immersive User Interfaces And Dynamic Web Applications. Passionate About Clean Code User Experience And Collaborative Problem Solving.</h3>
 
