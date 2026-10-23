@@ -10,10 +10,6 @@ Frontend Developer Specializing In Creating Immersive User Interfaces And Dynami
 
 Frontend Developer with expertise in modern web technologies, currently advancing skills in React.js. Dedicated to building responsive, accessible, and performant web applications that deliver exceptional user experiences.
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=abdulbasitshakeel&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbasitshakeel" /> 
-</p>
-
 ## Current Focus
 
 - **Professional Role**: Frontend Developer at EmpireOne BPO Solutions, Inc.
