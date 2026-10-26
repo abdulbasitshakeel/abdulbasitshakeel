@@ -14,7 +14,7 @@ Results-driven **Frontend Web Developer** with strong expertise in **JavaScript 
 
 ## Current Focus
 
-- **Professional Role:** Frontend Developer at **EmpireOne BPO Solutions, Inc.**
+- **Role:** Frontend Developer at **EmpireOne BPO Solutions, Inc.**
 - **Advancing Expertise:** **React.js**, **Next.js**, **Redux Toolkit**, and scalable modern frontend architectures.
 - **Specialization:** Mobile-First Responsive Design, RESTful API Integration, and Core Web Vitals Optimization.
 - **Availability:** Open to frontend engineering roles, freelance web projects, and collaborative product development.
