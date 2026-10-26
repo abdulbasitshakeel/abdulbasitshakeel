@@ -4,12 +4,6 @@
   Frontend Developer Specializing in Immersive User Interfaces, Scalable React.js Applications, Responsive UI/UX Design, and Web Performance Optimization
 </h3>
 
-<p align="center">
-  <a href="https://basit-shakeel.vercel.app/" target="_blank"><strong>Live Portfolio</strong></a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/abdulbasitshakeel/" target="_blank"><strong>LinkedIn</strong></a> &nbsp;•&nbsp;
-  <a href="mailto:basitshakeel2005@gmail.com"><strong>basitshakeel2005@gmail.com</strong></a>
-</p>
-
 ---
 
 <img align="right" alt="Abdul Basit Shakeel Frontend Developer Coding GIF" width="400" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif" />
